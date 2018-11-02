@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_73091b64150ac960c340beab37f0c705050cdaf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_a74c26a7cf713fb4ce98b145dc787ecf5a74061b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_cc38ae41cf6ebc8ef24f19fb97b6306263feebe7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_53c4b7ae5ccd17c7e6c26c1ff105edbb10a4f142.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_1d0fd3d20e238a8405bce865ebfc174be8794dce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_b6bd28cffe13fec462a26ddb40a9d7e33291ee63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_ffb2e79ef2b77501889ad614b018f479bb72832c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.1.0_8411af7e5d4db85b35fea3e8e07b636e232fe1f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_c9e260d62bc74c04ea965dc949896eea290c0458.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.1.0_d9c869191ea073074a800c5e49df07b96786b5bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_68f25c8cf66e20f6ad15454126104c17d709b8de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_bb157558d70cf7ef9223a3f5f0d15ddf1d00c86a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.1.0_d5dd4954fe7ecaaf0a24a0522fe28d76e362e9ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.1.0_ca716154687494aa59ccfd1ff63e81ae8eee7fd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.0_d4a3fec76831f5fbe74a361784f06f7e5564a5cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_eaaa0d1e5f84340d44cd959134bebe0c4500e8cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.1.0_0bdd0d7b584bc898030c0748692742d775a8913d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_f9ffa487a0496556aec25f686d26db40ca85ae7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_3ba2c869401d3142bbe7f9055229927145ac6e89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_bc0a36f118d2314fb49e5e43c76f0efce0e62dc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_97e1376b0c5a4de7f69ed3a64185840f0eb2ec74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_46d2bf941d3068f66976e1b3d755204db92b5cd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_c5f618fa274b34a49c9634fe29c22ccc72c0f635.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_d2818c8639881c335b003262eda878a54100a4dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.1.0_dae9f7be626c8ade5ee95e5d29ff34a5e270acc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.1.0_f9bdd301f70b210b2dcea4b605bfc0a3d9c03c0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_57c7f33ce5bbe6b1b78a73312284bb23fcbd1b7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.1.0_6c1886fe97a2b7fad09d127b187e08ad0ee2b536.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.1.0_ef4b6a266099ca87cafef2b25f726e8cea32543f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/madiba/Desktop/Pranesh/RandD projects/projectZ/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_346284b7e5d96734254995fede745ded7c3a4843.jar" />
+    </item>
+
+</items>
